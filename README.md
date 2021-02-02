@@ -47,3 +47,10 @@ print('Skaitlis' + str(x+1) + ' =', SkaitlisPakāpē)
 |Python 3 |C#   |HTML |
 |---------|-----|-----|
 |Viduvejas|Labas|Mazas|
+
+---
+# Daramie darbi.
+
+- [x] Izdarit Sistemu programmesanu.
+- [ ] Izdarit krievuvalodu.
+- [ ] Nodot abus darbus.
