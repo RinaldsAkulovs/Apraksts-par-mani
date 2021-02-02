@@ -42,15 +42,24 @@ for x in range(6):
 print('Skaitlis' + str(x+1) + ' =', SkaitlisPakāpē)
 ```
 ---
-# Manas zinašanas programmešana. 
+## Manas zinašanas programmešana. 
 
 |Python 3 |C#   |HTML |
 |---------|-----|-----|
 |Viduvejas|Labas|Mazas|
 
 ---
-# Daramie darbi.
+## Daramie darbi.
 
 - [x] Izdarit Sistemu programmesanu.
 - [ ] Izdarit krievuvalodu.
 - [ ] Nodot abus darbus.
+
+---
+### Emoji.
+
+```
+👽 👾 🤖
+```
+
+![alt text](image1.jpg)
