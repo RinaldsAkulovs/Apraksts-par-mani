@@ -1,0 +1,2 @@
+# Apraksts-par-mani
+Majasdarbs 
