@@ -28,6 +28,9 @@ Otrs mans hobijs ar kuru nodarbojos jau 4 gadus ir Jaunsardze.
 ```
 ![Jaunsardzes bilde](jauns.jpg)
 
+---
+## Line of code
+
 ```
 print('Skaitlis 3 tiek izmantots ka pirmais skaitlis.')
 print()
@@ -39,3 +42,8 @@ for x in range(6):
 print('Skaitlis' + str(x+1) + ' =', SkaitlisPakāpē)
 ```
 ---
+# Manas zinašanas programmešana. 
+
+|Python 3 |C#   |HTML |
+|---------|-----|-----|
+|Viduvejas|Labas|Mazas|
