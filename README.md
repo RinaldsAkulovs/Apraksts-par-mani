@@ -19,7 +19,7 @@ Pirms mācijos (RVT) es mācijos (Jelgavas 4. vidusskolā) jeb (J4V) un pirms ma
 ```
 Viens no maniem hobijiem ir Boks ar kuru jau nodarbojos jau 3 gadus.
 ```
-![Box bilde](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fboksklubpredator%2F&psig=AOvVaw1Xo7vCtlJMFcgO77bGtFxU&ust=1612347890077000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjhl43-yu4CFQAAAAAdAAAAABAD)
+![Box bilde](https://www.google.com/url?sa=i&url=https%3A%2F%2Fallegro.pl%2Fartykul%2Fco-jest-potrzebne-by-uprawiac-boks-56567&psig=AOvVaw1Xo7vCtlJMFcgO77bGtFxU&ust=1612347890077000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjhl43-yu4CFQAAAAAdAAAAABAJ)
 
 ```
 
@@ -27,3 +27,14 @@ Otrs mans hobijs ar kuru nodarbojos jau 4 gadus ir Jaunsardze.
 
 ```
 ![Jaunsardzes bilde](jauns.jpg)
+
+`
+print('Skaitlis 3 tiek izmantots ka pirmais skaitlis.')
+print()
+
+SkaitlisPakāpē = 3 
+for x in range(6): 
+   SkaitļaPakape = 3 
+   SkaitlisPakāpē = SkaitlisPakāpē * SkaitļaPakape 
+print('Skaitlis' + str(x+1) + ' =', SkaitlisPakāpē)
+`
