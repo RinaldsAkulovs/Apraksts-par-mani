@@ -28,7 +28,7 @@ Otrs mans hobijs ar kuru nodarbojos jau 4 gadus ir Jaunsardze.
 ```
 ![Jaunsardzes bilde](jauns.jpg)
 
-`
+```
 print('Skaitlis 3 tiek izmantots ka pirmais skaitlis.')
 print()
 
@@ -37,4 +37,5 @@ for x in range(6):
    SkaitļaPakape = 3 
    SkaitlisPakāpē = SkaitlisPakāpē * SkaitļaPakape 
 print('Skaitlis' + str(x+1) + ' =', SkaitlisPakāpē)
-`
+```
+---
